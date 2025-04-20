@@ -7,4 +7,4 @@ def trim_url(url):
 if __name__ == "__main__":
     user_input = input("Enter your link: ")
     result = trim_url(user_input)
-    print("Clear link:", result)
+    print(\nClear link:", result)
